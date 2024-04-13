@@ -1,5 +1,0 @@
-This Arduino file takes a serial input at 9600 baud and converts it to both an MD5 and SHA3_256 hash using the Crypto library by Rhys Weatherley for SHA and ArduinoMD5 by tzikis for MD5.
-
-https://rweather.github.io/arduinolibs/crypto.html
-
-https://github.com/tzikis/ArduinoMD5
