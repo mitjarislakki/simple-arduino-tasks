@@ -1,0 +1,5 @@
+This arduino file provides network information to the serial via 9600 baud and attempts to connect to the SSID and password specified in `ss` and `pw`.
+
+Uses the Arduino WiFiNINA library for an Arduino MKR WiFi 1010.
+
+https://www.arduino.cc/reference/en/libraries/wifinina/
