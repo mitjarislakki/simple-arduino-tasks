@@ -1,0 +1,11 @@
+## AES.cpp
+This Arduino file alternates between encrypting and decrypting a message input by the serial at 9600 baud. Implemented via Crypto library by Rhys Weatherley.
+
+https://rweather.github.io/arduinolibs/crypto.html
+
+## md-5-sha3.cpp
+This Arduino file takes a serial input at 9600 baud and converts it to both an MD5 and SHA3_256 hash using the Crypto library by Rhys Weatherley for SHA and ArduinoMD5 by tzikis for MD5.
+
+https://rweather.github.io/arduinolibs/crypto.html
+
+https://github.com/tzikis/ArduinoMD5
