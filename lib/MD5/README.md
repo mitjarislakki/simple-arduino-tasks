@@ -1,3 +1,5 @@
+**THIS LIBRARY IS FROM https://github.com/spaniakos/ArduinoMD5**
+
 This is an MD5 library for the Arduino, based on scottmac's MD5 library, which you can find here:
 https://github.com/scottmac/arduino
 
